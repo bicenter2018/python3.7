@@ -46,7 +46,7 @@ exclude_patterns = [venvdir+'/*', 'README.rst']
 # -----------------------
 
 # Use our custom theme.
-html_theme = 'python_docs_theme'
+html_theme = 'sphinxdoc'
 html_theme_path = ['tools']
 html_theme_options = {
     'collapsiblesidebar': True,
